@@ -39,4 +39,3 @@ If you'd like to test, debug, or expand this project:
 
 ---
 
-For donations: [paypal.me/MicrobotBE](https://paypal.me/MicrobotBE?country.x=BE)
